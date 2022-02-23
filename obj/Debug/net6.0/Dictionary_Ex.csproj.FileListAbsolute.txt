@@ -1,0 +1,15 @@
+D:\cat32tw\Desktop\Dictionary_Ex\bin\Debug\net6.0\Dictionary_Ex.exe
+D:\cat32tw\Desktop\Dictionary_Ex\bin\Debug\net6.0\Dictionary_Ex.deps.json
+D:\cat32tw\Desktop\Dictionary_Ex\bin\Debug\net6.0\Dictionary_Ex.runtimeconfig.json
+D:\cat32tw\Desktop\Dictionary_Ex\bin\Debug\net6.0\Dictionary_Ex.dll
+D:\cat32tw\Desktop\Dictionary_Ex\bin\Debug\net6.0\ref\Dictionary_Ex.dll
+D:\cat32tw\Desktop\Dictionary_Ex\bin\Debug\net6.0\Dictionary_Ex.pdb
+D:\cat32tw\Desktop\Dictionary_Ex\obj\Debug\net6.0\Dictionary_Ex.csproj.AssemblyReference.cache
+D:\cat32tw\Desktop\Dictionary_Ex\obj\Debug\net6.0\Dictionary_Ex.GeneratedMSBuildEditorConfig.editorconfig
+D:\cat32tw\Desktop\Dictionary_Ex\obj\Debug\net6.0\Dictionary_Ex.AssemblyInfoInputs.cache
+D:\cat32tw\Desktop\Dictionary_Ex\obj\Debug\net6.0\Dictionary_Ex.AssemblyInfo.cs
+D:\cat32tw\Desktop\Dictionary_Ex\obj\Debug\net6.0\Dictionary_Ex.csproj.CoreCompileInputs.cache
+D:\cat32tw\Desktop\Dictionary_Ex\obj\Debug\net6.0\Dictionary_Ex.dll
+D:\cat32tw\Desktop\Dictionary_Ex\obj\Debug\net6.0\ref\Dictionary_Ex.dll
+D:\cat32tw\Desktop\Dictionary_Ex\obj\Debug\net6.0\Dictionary_Ex.pdb
+D:\cat32tw\Desktop\Dictionary_Ex\obj\Debug\net6.0\Dictionary_Ex.genruntimeconfig.cache
